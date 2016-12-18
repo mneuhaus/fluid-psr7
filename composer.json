@@ -1,0 +1,13 @@
+{
+    "name": "mia3/fluid-psr7",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marc Neuhaus",
+            "email": "marc@mia3.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"MIA3\\FluidPsr7\\": "src"}
+    }
+}
